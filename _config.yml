@@ -4,6 +4,10 @@ description: A Jekyll plugin to add metadata tags for search engines and social 
 image: 
    path: "https://htmlpasta.com/content/images/size/w2000/2020/06/low-angle-photo-of-fireworks-949592.jpg"
 permalink: pretty
+image:
+  path: /img/twitter.png
+  height: 1333
+  width: 2000
 
 plugins:
   - jekyll-seo-tag
