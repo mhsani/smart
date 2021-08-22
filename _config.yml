@@ -7,5 +7,8 @@ permalink: pretty
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-image: "https://htmlpasta.com/content/images/size/w2000/2020/06/low-angle-photo-of-fireworks-949592.jpg"
+image: 
+   path: https://htmlpasta.com/content/images/size/w2000/2020/06/low-angle-photo-of-fireworks-949592.jpg
+author:
+  twitter: benbalter
 theme: jekyll-theme-minimal
