@@ -9,6 +9,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-author:
-  twitter: benbalter
 theme: jekyll-theme-minimal
